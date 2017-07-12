@@ -1,4 +1,4 @@
-# moralvaluesimplicitcausality
+# Moral Values and Implicit Causality
 Data and materials for the project on Moral Values and Implicit and Explicit Causal Judgment
 
 Corresponding Author: Laura Niemi, Duke University, laura.niemi@duke.edu, 617-852-6911
