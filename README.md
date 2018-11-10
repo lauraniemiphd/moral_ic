@@ -3,7 +3,7 @@ This repository contains data and materials for the project "Moral values in cau
 
 Data and R code for Analyses for all studies are uploaded.
 
-Corresponding Author: Laura Niemi, University of Toronto, laura.niemi@toronto.ca, 437.226.4566
+Corresponding Author: Laura Niemi, University of Toronto, laura.niemi@utoronto.ca, 437.226.4566
 Assistant Professor, Munk School of Global Affairs & Public Policy
 University of Toronto
 
